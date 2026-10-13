@@ -1,0 +1,31 @@
+id,platform,date,stars,version,themes,paraphrase,source
+A01,Android,2026-09-18,1,,reliability;ops_service,App crashes every few weeks; blames the transport service for no accountability,AppBrain comments page (Play reviews)
+A02,Android,2026-09-14,1,,ops_service,Pickup point set for login time is unreasonable,AppBrain comments page (Play reviews)
+A03,Android,2026-09-30,1,,noshow_boarding;offline_state;permissions_ads,Seat-belt verification is clumsy; OTP hides behind the seat-belt check; claims ads were introduced (unverified); wants trip details cached because it needs a network call on every open,AppBrain comments page (Play reviews)
+A04,Android,2026-09-24,1,,login_otp,OTP never arrives after repeated tries so login cannot complete,AppBrain comments page (Play reviews)
+A05,Android,2026-10-06,1,,booking_clarity,Push says trip is not booked even after booking; asks for a monthly view instead of day view,AppBrain comments page (Play reviews)
+A06,Android,2026-07-16,1,,ops_service,Employee complaints are ignored by transport team and cab owners,AppBrain via search snippet (Play reviews)
+A07,Android,2026-07-15,4,,noshow_boarding,Wants users to be able to mark No Show themselves so the driver is notified,AppBrain via search snippet (Play reviews)
+A08,Android,2026-07,,,ops_service,Cab late due to rain and 3 passengers squeezed in the back of a 4-seater,AppBrain via search snippet (Play reviews)
+A09,Android,2026-07,,,noshow_boarding,Wants a smart reminder to check in once vehicle crosses pickup point; missed check-in becomes a surprise No Show,Play Store listing snippet
+A10,Android,2026-07,,,booking_clarity,Recent UI change made shuttle booking two steps; user thought a cab was booked when it was not; sees all cabs for the slot instead of only theirs,Play Store listing snippet
+A11,Android,2026-09-24,5,,positive,Better than other transport apps,AppBrain comments page (Play reviews)
+A12,Android,2026-10-05,5,,positive,Convenient; all details in one place,AppBrain comments page (Play reviews)
+A13,Android,2026-10-06,5,,positive,Helpful day to day,AppBrain comments page (Play reviews)
+A14,Android,2026-09-14,5,,positive,Easy cab tracking and route visibility; easy GUI,AppBrain comments page (Play reviews)
+A15,Android,2026-09-24,5,,positive,Good guidance and assistance through the ride,AppBrain comments page (Play reviews)
+I01,iOS,,,10.42.6,reliability,White screen and crash on launch after update; reinstall did not help,mwm.ai App Store reviews
+I02,iOS,,,10.41.0,login_otp,OTP not received on mobile or email so login fails,mwm.ai App Store reviews
+I03,iOS,,,,permissions_ads,App keeps asking for microphone permission after refusal,mwm.ai App Store reviews
+I04,iOS,,,10.33.0,reliability;noshow_boarding,Buggy app; user finds a cancellation/penalty rule only after cancelling,mwm.ai App Store reviews
+I05,iOS,,,,tracking_accuracy,Vehicle GPS position is incorrect,mwm.ai App Store reviews
+I06,iOS,,,10.42.2,booking_clarity,Pickup/drop location and date cannot be edited for non-permanent addresses,mwm.ai / appshunter App Store reviews
+I07,iOS,,,,tracking_accuracy,Location not identified correctly; parking queue positions change on their own,mwm.ai App Store reviews
+I08,iOS,,,,noshow_boarding,Penalised despite informing in advance; calls the rule unfair,mwm.ai App Store reviews
+I09,iOS,,,,noshow_boarding,Reached-confirmation notification disappears and cannot be reopened in app,appshunter App Store reviews
+I10,iOS,,,,noshow_boarding,Feedback section not working; wants a No Show option,Apple App Store reviews page
+I11,iOS,,,,reliability,Says app is not mature enough; a bug,appshunter App Store reviews
+I12,iOS,,,,tracking_accuracy,App does not refresh when vehicle is changed,appshunter App Store reviews
+I13,iOS,2023-03,,,booking_clarity,Update hid co-passengers so colleagues cannot coordinate or see if cab is full,Apple App Store reviews page (older)
+I14,iOS,,,,ops_service,Always scheduled as last drop even when cab passes their home,Apple App Store reviews page
+I15,iOS,,,,ops_service,A different cab is assigned every day,Apple App Store reviews page

@@ -1,0 +1,33 @@
+{
+  "total_ratings": 114160,
+  "mean": 4.314,
+  "shares": {
+    "5": 71.8,
+    "4": 13.1,
+    "3": 1.9,
+    "2": 0.8,
+    "1": 12.3
+  },
+  "scenarios": {
+    "today": 4.314,
+    "1-star share halved, those users become 5-star": 4.56,
+    "1-star share halved, those users become 4-star": 4.498,
+    "all 1-star users become 4-star": 4.682
+  },
+  "extra_5star_for_4_5": 42400,
+  "negative_reviews_in_sample": 25,
+  "themes": {
+    "reliability": 4,
+    "ops_service": 6,
+    "noshow_boarding": 7,
+    "offline_state": 1,
+    "permissions_ads": 2,
+    "login_otp": 2,
+    "booking_clarity": 4,
+    "tracking_accuracy": 3
+  },
+  "platform_negative": {
+    "Android": 10,
+    "iOS": 15
+  }
+}
